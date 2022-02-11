@@ -1,2 +1,2 @@
 # myfirstgitactions
-my fist github action
+my first github action
